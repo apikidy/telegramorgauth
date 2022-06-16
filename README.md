@@ -1,4 +1,7 @@
 
+## HOW to Instal
+Open CMD : pip3 install telethon
+
 ## How to Setup API:
 - Go to https://my.telegram.org/auth and Login.
 - Click on API development tools and fill the required fields.
